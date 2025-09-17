@@ -1,4 +1,4 @@
-F1 Projects 🏎️📊
+##F1 Projects 🏎️📊
 
 F1 Projects is a collection of data-driven projects inspired by Formula 1.
 The goal of this repository is to explore the world of motorsport through data analysis, prediction, and optimization techniques.
@@ -7,7 +7,7 @@ Currently, the repository includes two main projects:
 
 📂 Projects
 
-🔮 Pole Predictor
+🔮 #Pole Predictor
 
 A tool designed to predict pole position lap times based on:
 	•	Historical race data
@@ -19,7 +19,7 @@ Built as a learning project in data preprocessing, modeling, and predictive anal
 
 ⸻
 
-🏁 Strategy Generator
+🏁 #Strategy Generator
 
 A program that calculates the most optimal race strategy using:
 	•	Track-specific data
