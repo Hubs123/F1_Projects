@@ -5,8 +5,6 @@ The goal of this repository is to explore the world of motorsport through data a
 
 Currently, the repository includes two main projects:
 
-📂 Projects
-
 ## 🔮 Pole Predictor
 
 A tool designed to predict pole position lap times based on:
@@ -15,7 +13,7 @@ A tool designed to predict pole position lap times based on:
 
 Built as a learning project in data preprocessing, modeling, and predictive analytics.
 
-👉 Read more
+👉 [Read more][https://github.com/Hubs123/F1_Projects/blob/main/strategy_generator/README.md]
 
 ⸻
 
@@ -30,10 +28,10 @@ Planned features include:
 	•	Safety car deployments
 	•	Fuel weight reduction over race distance
 
-👉 Read more
+👉 [Read more][https://github.com/Hubs123/F1_Projects/blob/main/pole_time_predictor/README.md]
 
 ⸻
 
-🎯 Purpose
+## 🎯 Purpose
 
 This repository was created from a deep passion for Formula 1 and as a way to learn and practice data analysis, simulation, and optimization in real-world scenarios inspired by motorsport.
