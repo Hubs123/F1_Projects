@@ -8,6 +8,7 @@ Currently, the repository includes two main projects:
 ## 🔮 Pole Predictor
 
 A tool designed to predict pole position lap times based on:
+
 	-	Historical race data
 	-	Practice session lap times
 
@@ -20,10 +21,12 @@ Built as a learning project in data preprocessing, modeling, and predictive anal
 ## 🏁 Strategy Generator
 
 A program that calculates the most optimal race strategy using:
+
 	-	Track-specific data
 	-	Tire performance information from Pirelli
 
 Planned features include:
+
 	-	Weather conditions (rain)
 	-	Safety car deployments
 	-	Fuel weight reduction over race distance
