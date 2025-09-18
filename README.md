@@ -21,7 +21,7 @@ Built as a learning project in data preprocessing, modeling, and predictive anal
 
 A program that calculates the most optimal race strategy using:
 	•	Track-specific data
-	•	Tire performance information from Pirelli
+	•	Tire performance information from Pirelli®
 
 Planned features include:
 	•	Weather conditions (rain)
