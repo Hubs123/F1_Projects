@@ -13,7 +13,7 @@ A tool designed to predict pole position lap times based on:
 
 Built as a learning project in data preprocessing, modeling, and predictive analytics.
 
-👉 [Read more][https://github.com/Hubs123/F1_Projects/blob/main/strategy_generator/README.md]
+👉 [Read more](https://github.com/Hubs123/F1_Projects/blob/main/strategy_generator/README.md)
 
 ⸻
 
@@ -28,7 +28,7 @@ Planned features include:
 	•	Safety car deployments
 	•	Fuel weight reduction over race distance
 
-👉 [Read more][https://github.com/Hubs123/F1_Projects/blob/main/pole_time_predictor/README.md]
+👉 [Read more](https://github.com/Hubs123/F1_Projects/blob/main/pole_time_predictor/README.md)
 
 ⸻
 
