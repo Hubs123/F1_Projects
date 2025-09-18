@@ -15,7 +15,6 @@ The focus is on understanding how different factors influence race outcomes and 
 
 ## 🛠 Planned Features
 
-Future iterations will also consider:
 	•	🌧 Rain and changing weather conditions
 	•	🚨 Safety car deployments
 	•	⛽ Fuel weight reduction as the race progresses
